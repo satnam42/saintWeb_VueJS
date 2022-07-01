@@ -1,0 +1,18 @@
+.page-coming {
+	color: white;
+	padding-bottom: 15%;
+
+	h1 {
+		padding: 50px 10px;
+		@media only screen and (max-width:  992px)
+		{
+			color: #000;
+		}
+	}
+	h2 {
+		padding: 50px 10px;
+		font-size: 60px;
+		color: black;
+		height: 300px;
+	}
+}
